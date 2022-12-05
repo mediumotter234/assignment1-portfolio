@@ -1,0 +1,60 @@
+FRAME 1:
+
+Label: Ingrid heads downstairs to the public laundry room. This is her first time using these specific laundry washer machines.
+
+---
+
+FRAME 2:
+
+Label: Ingrid starts off by opening the lid of the washing machine and reading the listed instructions on the underside of the lid.
+
+---
+
+FRAME 3:
+
+Label: After reading the first few steps, she puts her detergent in first, and then her dirty clothes.
+
+---
+
+FRAME 4:
+
+Label: Ingrid closes the lid, ready to proceed, but realizes she doesn't know what exactly to do next, because the instructions were on the bottom of the lid.
+
+---
+
+FRAME 5:
+
+Label: She opens the lid to read the instructions again.
+
+---
+
+FRAME 6:
+
+Label: Ingrid sets the options for cycle type and temperature using the knobs on the interface.
+
+---
+
+FRAME 7:
+
+Label: Next, according to the instructions, she places her coins in the slots and tries to lightly push it the sliding tray in.
+
+---
+
+FRAME 8:
+
+Label: She doesn't think she's done it right, so she pushes harder and hears the coins clinking and rattling as they enter the machine correctly.
+
+---
+
+FRAME 9:
+
+Label: Ingrid presses start and the 'in use' cycle status light turns green.
+
+---
+
+FRAME 10:
+
+Label: Unsure how long the cycle will take, Ingrid sets a timer for 40 minutes.
+
+---
+

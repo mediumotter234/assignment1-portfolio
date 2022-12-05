@@ -1,0 +1,86 @@
+{
+"name": "Laundry Storyboard",
+"aspect_ratio": 0,
+"frames": [
+{
+"frame_number": "1",
+"label": "Ingrid heads downstairs to the public laundry room. This is her first time using these specific laundry washer machines.",
+"voiceover": null,
+"direction": null,
+"duration": 4000,
+"file_name": "frame-0001.jpg"
+},
+{
+"frame_number": "2",
+"label": "Ingrid starts off by opening the lid of the washing machine and reading the listed instructions on the underside of the lid.",
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0002.jpg"
+},
+{
+"frame_number": "3",
+"label": "After reading the first few steps, she puts her detergent in first, and then her dirty clothes.",
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0003.jpg"
+},
+{
+"frame_number": "4",
+"label": "Ingrid closes the lid, ready to proceed, but realizes she doesn't know what exactly to do next, because the instructions were on the bottom of the lid.",
+"voiceover": null,
+"direction": null,
+"duration": 1000,
+"file_name": "frame-0004.jpg"
+},
+{
+"frame_number": "5",
+"label": "She opens the lid to read the instructions again.",
+"voiceover": null,
+"direction": null,
+"duration": 1000,
+"file_name": "frame-0005.jpg"
+},
+{
+"frame_number": "6",
+"label": "Ingrid sets the options for cycle type and temperature using the knobs on the interface.",
+"voiceover": null,
+"direction": null,
+"duration": 1000,
+"file_name": "frame-0006.jpg"
+},
+{
+"frame_number": "7",
+"label": "Next, according to the instructions, she places her coins in the slots and tries to lightly push it the sliding tray in.",
+"voiceover": null,
+"direction": null,
+"duration": 1000,
+"file_name": "frame-0007.jpg"
+},
+{
+"frame_number": "8",
+"label": "She doesn't think she's done it right, so she pushes harder and hears the coins clinking and rattling as they enter the machine correctly.",
+"voiceover": null,
+"direction": null,
+"duration": 500,
+"file_name": "frame-0008.jpg"
+},
+{
+"frame_number": "9",
+"label": "Ingrid presses start and the 'in use' cycle status light turns green.",
+"voiceover": null,
+"direction": null,
+"duration": 125,
+"file_name": "frame-0009.jpg"
+},
+{
+"frame_number": "10",
+"label": "Unsure how long the cycle will take, Ingrid sets a timer for 40 minutes.",
+"voiceover": null,
+"direction": null,
+"duration": 160,
+"file_name": "frame-0010.jpg"
+}
+]
+}
